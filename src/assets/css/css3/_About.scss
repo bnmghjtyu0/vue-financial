@@ -1,0 +1,30 @@
+.Home-about {
+    background: url(../img/about_bg.png) no-repeat center center !important;
+    @media #{$col-xs} {
+        height: auto !important;
+    }
+    .container {
+        display: block !important;
+        @media #{$col-xs} {
+            position: relative !important;
+            transform: translate(0, 0) !important;
+        }
+        h2 {
+            font-weight: bold;
+            font-stretch: condensed;
+            text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+            line-height: 1.4;
+            @media #{$col-xs} {
+                font-size: 28px;
+                margin-top:0;
+            }
+        }
+        p {
+            color: #fff; // font-family: $Avenir-Book;
+            // font-weight: 300;
+            @media #{$col-xs} {
+                font-size: 18px;
+            }
+        }
+    }
+}

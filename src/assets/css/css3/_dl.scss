@@ -1,0 +1,37 @@
+dl {
+    // border: 1px solid #bdc8ca;
+    // background-color: #f7fafa;
+    dt {
+        float: left;
+        width: 15%;
+        padding-bottom: 0;
+        box-sizing: border-box;
+        padding: 10px;
+        text-align: center;
+    }
+    dd {
+        margin-left: 15%;
+        // border-left: 1px dotted #bdc8ca;
+        background-color: #fff;
+        box-sizing: border-box;
+        padding: 10px;
+        &:after {
+            content: "";
+            display: block;
+            clear: both;
+        }
+        &~ {
+            dt,
+            dd {
+                // border-top: 1px solid #bdc8ca;
+            }
+        }
+    }
+}
+
+
+/*dt*/
+
+.row2 + dd:after {
+    content: none;
+}

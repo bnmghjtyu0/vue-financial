@@ -1,0 +1,79 @@
+$col-xs: "(max-width: 767px)";
+$col-sm: "(min-width: 768px) and (max-width: 991px)";
+$col-md: "(min-width: 992px) and (max-width: 1199px)";
+$col-lg: "(min-width: 1200px)";
+$warning:#FF9D25;
+$warning2:#f48917;
+$link:#141e30;
+$primary:#141e30;
+$primary2:#223a55;
+.btn-lg {
+    padding: 10px 32px;
+    border-radius: 25px;
+    @media #{$col-xs} {
+               padding: 4px 18px;
+    border-radius: 25px;
+    font-size: 1.6rem;
+                }
+}
+
+.btn-md {
+    padding: 4px 26px;
+    border-radius: 25px;
+}
+
+.btn-warning {
+    background-color: $warning;
+    color: #223a55;
+    font-weight:700;
+    &:hover,&:focus {
+         color: #223a55 !important;
+        background:#FF7B00 !important;
+    }
+}
+.btn-primary2 {
+    background-color: $primary2;
+    color: #223a55;
+    font-weight:500;
+    &:hover,&:focus {
+        color: #223a55;
+    }
+}
+
+.btn-link {
+    border: 1px solid $link;
+    color: $link;
+    text-decoration:none !important;
+    font-weight:bold;
+    &:hover {
+        border: 1px solid $link;
+        background: #E2E2E2;
+    }
+    &:focus {
+        border: 1px solid $link;
+    }
+}
+
+.btn-top {
+    background-color: $warning;
+    border-radius: 50%;
+    width: 42px;
+    height: 42px;
+    padding: 0;
+    display: flex;
+    display: block;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    &:hover {
+        background:#FF7B00;
+    }
+}
+
+.text-warning {
+    color:$warning2;
+}
+.text-primary {
+    color:$primary;
+}

@@ -1,0 +1,152 @@
+{
+  "btn": {
+    "Learn-More": "Learn More"
+  },
+  "Navbar": {
+    "Home": "Home",
+    "Products": "Products",
+    "Services": "Services",
+    "About": "About Us",
+    "Contact": "Contact Us"
+  },
+  "Index": {
+    "Section01": {
+      "Title": "Premium \r\nProvider Of Simplified Trading\r\nTechnology\r\nfor Online Brokers"
+    },
+    "Section02": {
+      "Title": "We Provide",
+      "Content": "Simplified Trading Technology & \r\nExpert Services for Running A\r\nSuccessful Broker"
+    },
+    "Section03": {
+      "Title": "COMPLETE SOLUTION",
+      "Sub-Title": "A one-stop service for Your Business",
+      "Item01": {
+        "Title": "Platform Web Design",
+        "Content": "We support the customize platform design, our clients may create their own trading platform."
+      },
+      "Item02": {
+        "Title": "Trading Platform",
+        "Content": "Our mobile platform offers a user-friendly UI. Based on the same high standards as our web-based trading application, we provide a smarter, faster, simpler trading experience to the market."
+      },
+      "Item03": {
+        "Title": "Management System",
+        "Content": "Our backstage is a comprehensive system that allows the broker to manage and monitor the system. With our backstage system, you may have a close look to all trading platform side, providing you with the full picture of the trading performance, users and their banking and trading activities, reports, etc."
+      },
+      "Item04": {
+        "Title": "Risk Management",
+        "Content": "With a full package of risk analysis and management tools, also matrices and transaction reports, our system is flexible and able to handle fast portfolio calculations."
+      },
+      "Item05": {
+        "Title": "API Integration",
+        "Content": "Xtreme Point has developed a wide choice of cutting-edge widgets and are all ready for implementation in operating forex and binary options platforms, as well as in gaming and sports betting websites."
+      },
+      "Item06": {
+        "Title": "24-hr Service",
+        "Content": "We offer professional service and provide you 24/7 technical support."
+      }
+    }
+  },
+  "Product": {
+    "Section01": {
+      "Title": "BINARY OPTIONS",
+      "Sub-Title": "Bringing New Investing way to your Members"
+    },
+    "Section02": {
+      "Title": "TO EXPAND FINANCIAL TRADING VOLUME",
+      "Content": "We offers a simplified binary option trading platfrom accessible to everyone. Embedded into a user-friendly interface and provided controlled risks system for online gambling website, while complying with global regulatory requirements."
+    },
+    "Section03": {
+      "Item01": {
+        "Title": "60 Seconds Option",
+        "Content": "Trading 60 Second Options is similar to trading classic Binary Options. The difference is that those options expire at 15, 30, 60, 120 or 150 seconds from the initiation of a trade . 60 Second Binary Options are addressed mainly to more aggressive traders. Those instruments provide the ability for instant profits and allow traders to take advantage of markets with high volatility."
+      },
+      "Item02": {
+        "Title": "High / Low Option",
+        "Content": "The popular High/Low instrument is based around the current market value of the underlying asset. The user simply decides whether the value will be higher or lower at expiration, relative to the current market price. Expiration times can range from 15 minutes to end of day, or end of week."
+      },
+      "Item03": {
+        "Title": "Touch / No Touch Option",
+        "Content": "A One Touch instrument is written around the target price, where the outcome depends on whether the market price reaches or does not reach the target price prior to the expiry of the option. This type of option allows the investor to set the position of the barrier, the time to expiration and the payout to be received once the barrier is broken."
+      },
+      "Item04": {
+        "Title": "Range Option",
+        "Content": "Range options are another type of exotic options in which profit is registered when the trader managed to correctly determine whether the underline asset’s rate in the predetermined expiry time is inside or outside a given range. When entering a range option, the trader will be given three different rates- the market rate for which the asset trades at the moment, an upper rate and a lower rate."
+      }
+    }
+  },
+  "Services": {
+    "Setcion01": {
+      "Title": "BECOMING AN \r\nONLINE TRADING BROKER",
+      "Item01": {
+        "Title": "Building \r\nModel",
+        "Content": {
+          "li-1": "Business model setting",
+          "li-2": "Commercial terms negotiated"
+        }
+      },
+      "Item02": {
+        "Title": "Customer \r\nSystem \r\nDevelopment",
+        "Content": {
+          "li-1": "Transaction simulation system",
+          "li-2": "Customer conversion",
+          "li-3": "Account created",
+          "li-4": "Data construction"
+        }
+      },
+      "Item03": {
+        "Title": "Trading",
+        "Content": {
+          "li-1": "Brokers systems",
+          "li-2": "Position monitoring",
+          "li-3": "Odds Customization"
+        }
+      },
+      "Item04": {
+        "Title": "Management \r\nSystem",
+        "Content": {
+          "li-1": "Real-time Rebate and Income Analysis",
+          "li-2": "Platform Structure Customization",
+          "li-3": "CRM"
+        }
+      },
+      "Item05": {
+        "Title": "Risk Control \r\nand Reporting",
+        "Content": {
+          "li-1": "Risk Management",
+          "li-2": "Automatic settlement",
+          "li-3": "Daily trading report"
+        }
+      }
+    },
+    "Section02": {
+      "Content": "Being a one-stop shop for brokers, our presents the newest addition to our suite of solutions - our advanced versatile trading platform, designed for traders of any skill level."
+    }
+  },
+  "About": {
+    "Section01": {
+      "Title01": "The world's leading",
+      "Title02": "binary option system provider",
+      "Content01": "Xtreme Point (XP) was established at 2013 and was composed of several expert teams and  development teams in the financial field for more than a decade. The system has been successfully run on several international financial companies.",
+      "Content02": "At the same time Xtreme Point is also the world’s leading online binary options technology system provider, dedicated to investors, financial institutions and brokers to provide professional online trading services. Xtreme Point offers a wide range of financial products: currency, materials, indices, stocks, so that clients are gived 24 hour access to the global financail markets by our trading platform."
+    }
+  },
+  "Contact": {
+    "Title": "Want a Complete Trading Solution?",
+    "Sub-Title": "CONTACT US!",
+    "Name": "Name",
+    "E-mail": "E-mail",
+    "Phone-Number": "Phone-Number",
+    "Message": "Message",
+    "SEND": "SEND",
+    "Info": "For more information about the perfect solution, and to start your own binary option business, please fill up the form and we'll get back to you shortly.",
+    "Pilipinas":"Pilipinas"
+  },
+  "Footer": {
+    "Home": "Home",
+    "Products": "Products",
+    "Services": "Services",
+    "About": "About Us",
+    "Contact": "Contact Us",
+    "Copyright": "Copyright © 2017 xtreme point"
+  }
+}
